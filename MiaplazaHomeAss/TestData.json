@@ -1,0 +1,10 @@
+{
+  "firstName": "First",
+  "lastName": "Last",
+  "email": "email@email.com",
+  "countryCode": "+49",
+  "phoneNumber": "12345678",
+  "gardianInfo": "No",
+  "prefferedStartDate": "5.7.2024"
+
+}
