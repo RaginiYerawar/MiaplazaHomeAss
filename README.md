@@ -1,11 +1,11 @@
 # MiaplazaHomeAssignment
-1. This repository contains test for these steps:
-2. navigate to https://miacademy.co/#/
-3. navigate to MiaPrep Online High School through the link on banner
-4. apply to MOHS
-5. fill in the Parent Information
-6. proceed to Student Information page
-7. STOP YOUR TEST HERE
+This repository contains test for these steps:
+1. navigate to https://miacademy.co/#/
+2. navigate to MiaPrep Online High School through the link on banner
+3. apply to MOHS
+4. fill in the Parent Information
+5. proceed to Student Information page
+6. STOP YOUR TEST HERE
 
 **Technology Stack:**
 - Windows64 OS
